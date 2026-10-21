@@ -1,2 +1,2 @@
-# BukuKita
+# ebook-store-globsl
 Website untuk menjual dan meng-upload ebook berbayar
